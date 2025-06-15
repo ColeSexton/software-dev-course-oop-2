@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" afterDir="false" />
+    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="completed work for practice 2: using method overloading and static methods.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ColeSexton"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ColeSexton&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ColeSexton/software-dev-course-oop-2.git",
-    "accountId": "171cb8b1-977e-4a81-8187-3cf489f80df9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ColeSexton/software-dev-course-oop-2.git&quot;,
+    &quot;accountId&quot;: &quot;171cb8b1-977e-4a81-8187-3cf489f80df9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -43,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.All in software-dev-course-oop-2.executor": "Run",
-    "JUnit.LemonadeStandTests.executor": "Run",
-    "JUnit.LemonadeTests.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-oop-2/pom.xml"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in software-dev-course-oop-2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LemonadeStandTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LemonadeTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mikel/projects/java-new-curriculum/software-dev-course-oop-2/pom.xml&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.LemonadeStandTests">
+}</component>
+  <component name="RunManager" selected="JUnit.LemonadeTests">
     <configuration name="All in software-dev-course-oop-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-oop-2" />
       <option name="PACKAGE_NAME" value="" />
@@ -97,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LemonadeStandTests" />
         <item itemvalue="JUnit.LemonadeTests" />
+        <item itemvalue="JUnit.LemonadeStandTests" />
         <item itemvalue="JUnit.All in software-dev-course-oop-2" />
       </list>
     </recent_temporary>
@@ -112,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738943620164</updated>
     </task>
+    <task id="LOCAL-00001" summary="completed work for practice 2: using method overloading and static methods.">
+      <option name="closed" value="true" />
+      <created>1749503276702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749503276702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed work for practice 2: using method overloading and static methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="completed work for practice 2: using method overloading and static methods." />
   </component>
 </project>
